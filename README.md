@@ -119,11 +119,6 @@ Run the application:
 flutter run
 ```
 
-### Run on Web
-
-```bash
-flutter run -d chrome
-```
 
 ### Build for Android
 
@@ -131,18 +126,12 @@ flutter run -d chrome
 flutter build apk
 ```
 
-### Build for Web
-
-```bash
-flutter build web
-```
 
 ## Project Structure
 
 ```text
 flutter_travel_news_app/
 ├── android/
-├── web/
 ├── assets/
 │   ├── images/
 │   │   └── banner/
