@@ -169,5 +169,9 @@ Developed and maintained by **Sina Sagatchi**.
 ## Original Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivansaul/demos/master/flutter/travel_news_app_demo.gif" alt="Travel News App Demo" width="320">
+  <img
+    src="https://raw.githubusercontent.com/ivansaul/demos/master/flutter/travel_news_app_demo.gif"
+    alt="Travel News App Demo"
+    width="80%"
+  />
 </p>
